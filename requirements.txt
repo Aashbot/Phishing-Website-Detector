@@ -1,0 +1,13 @@
+streamlit
+requests
+beautifulsoup4
+datetime
+urllib3
+pyopenssl
+pandas
+scikit-learn
+nltk
+cryptography
+whois
+tldextract
+python-whois
